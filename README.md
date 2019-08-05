@@ -1,1 +1,1 @@
-# Coursera_Reproducible_Research-Week-4
+# Coursera_Statistical_Inference
